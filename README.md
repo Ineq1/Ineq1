@@ -1,13 +1,13 @@
 <div align="center">
   <img src="./LOGO.png" alt="LOGO" width="300px" />
-  <h1>👋 Hi! I'm MLO</h1>
+  <h1>👋 Hi! I'm Ineq</h1>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mlllo&theme=transparent&hide border=true icons=true"/>
 </div>
 
 ### 📋 About me
 
-- 📫 How to reach me: **Discord: mlllo**
+- 📫 How to reach me: **Discord: ineq1**
 - 🌱 I'm currently learning C++
 
 ![mlllo's Stats](https://github-readme-stats.vercel.app/api?username=mlllo&theme=transparent&hide_border=true&show_icons=true)
