@@ -10,7 +10,7 @@
 - 📫 How to reach me: **Discord: ineq1**
 - 🌱 I'm currently learning C++
 
-![mlllo's Stats](https://github-readme-stats.vercel.app/api?username=mlllo&theme=transparent&hide_border=true&show_icons=true)
+![mlllo's Stats](https://github-readme-stats.vercel.app/api?username=Ineq1&theme=transparent&hide_border=true&show_icons=true)
 
 ```java
 class Main {
@@ -26,5 +26,5 @@ class Main {
 
 ### 🧰 Languages
 
-![mlllo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlllo&theme=transparent&hide_border=true&layout=pie)
+![mlllo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ineq1&theme=transparent&hide_border=true&layout=pie)
 
