@@ -8,7 +8,7 @@
 ### 📋 About me
 
 - 📫 How to reach me:<br/>
-  **Discord: ineq1**
+   - **Discord: ineq1**
 - 🌱 I'm currently learning C++
 
 ![ineq's Stats](https://github-readme-stats.vercel.app/api?username=Ineq1&theme=transparent&hide_border=true&show_icons=true)
