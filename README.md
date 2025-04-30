@@ -7,7 +7,7 @@
 
 ### 📋 About me
 
-- 📫 How to reach me:\n
+- 📫 How to reach me:< br / >
   **Discord: ineq1**
 - 🌱 I'm currently learning C++
 
