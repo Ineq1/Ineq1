@@ -2,7 +2,7 @@
   <img src="./LOGO.png" alt="LOGO" width="300px" />
   <h1>👋 Hi! I'm Ineq</h1>
   
-  ![ineq's ST](https://github-readme-streak-stats.herokuapp.com/?user=Ineq1&theme=transparent)
+  [![ineq's ST](https://github-readme-streak-stats.herokuapp.com/?user=Ineq1&theme=transparent)](https://github-readme-streak-stats.herokuapp.com/?user=Ineq1&theme=transparent)
 </div>
 
 ### 📋 About me
