@@ -10,11 +10,11 @@
   </p>
 
   <p>
-    <a href="https://github.com/Ineq1" target="_blank" rel="noopener" style="margin-right: 12px;">
-      <img src="https://img.shields.io/github/followers/Ineq1?style=social&label=Follow&color=black" alt="Follow me on GitHub" />
+    <a href="https://github.com/IneqDev" target="_blank" rel="noopener" style="margin-right: 12px;">
+      <img src="https://img.shields.io/github/followers/IneqDev?style=social&label=Follow&color=black" alt="Follow me on GitHub" />
     </a>
     <a href="https://discord.gg/8y48sTTNCW" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/Discord-ineq1-000000?style=flat&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-ineq-000000?style=flat&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
 </div>
@@ -49,10 +49,10 @@ int main() {
 
 ### 📊 GitHub Stats & Activity
 <div align="center" style="background-color: #000000; padding: 25px 15px; border-radius: 15px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ineq1&show_icons=true&theme=dark&hide_border=true&text_color=ffffff&icon_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ineq1&layout=compact&theme=dark&hide_border=true&text_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IneqDev&show_icons=true&theme=dark&hide_border=true&text_color=ffffff&icon_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IneqDev&layout=compact&theme=dark&hide_border=true&text_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
 </div>
 
 <div align="center" style="background-color: #000000; padding: 20px 0; border-radius: 15px;">
-  <img src="https://streak-stats.demolab.com?user=Ineq1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="720" style="border-radius: 12px; background: #000000;" />
+  <img src="https://streak-stats.demolab.com?user=IneqDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="720" style="border-radius: 12px; background: #000000;" />
 </div>
