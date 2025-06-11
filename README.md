@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/github/followers/IneqDev?style=social&label=Follow&color=black" alt="Follow me on GitHub" />
     </a>
     <a href="https://discord.gg/8y48sTTNCW" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/Discord-ineq-000000?style=flat&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-theineq-000000?style=flat&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
 </div>
