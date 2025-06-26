@@ -54,5 +54,5 @@ int main() {
 </div>
 
 <div align="center" style="background-color: #000000; padding: 20px 0; border-radius: 15px;">
-  <img src="https://streak-stats.demolab.com?user=TheIneq&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="720" style="border-radius: 12px; background: #000000;" />
+  <img src="https://streak-stats.demolab.com?user=TheIneq&theme=dark&hide_border=true" alt="GitHub Streak" width="720" style="border-radius: 12px; background: #000000;" />
 </div>
