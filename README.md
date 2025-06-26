@@ -10,8 +10,8 @@
   </p>
 
   <p>
-    <a href="https://github.com/IneqDev" target="_blank" rel="noopener" style="margin-right: 12px;">
-      <img src="https://img.shields.io/github/followers/IneqDev?style=social&label=Follow&color=black" alt="Follow me on GitHub" />
+    <a href="https://github.com/TheIneq" target="_blank" rel="noopener" style="margin-right: 12px;">
+      <img src="https://img.shields.io/github/followers/TheIneq?style=social&label=Follow&color=black" alt="Follow me on GitHub" />
     </a>
     <a href="https://discord.gg/8y48sTTNCW" target="_blank" rel="noopener">
       <img src="https://img.shields.io/badge/Discord-theineq-000000?style=flat&logo=discord&logoColor=white" alt="Discord" />
@@ -49,10 +49,10 @@ int main() {
 
 ### 📊 GitHub Stats & Activity
 <div align="center" style="background-color: #000000; padding: 25px 15px; border-radius: 15px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=IneqDev&show_icons=true&theme=dark&hide_border=true&text_color=ffffff&icon_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IneqDev&layout=compact&theme=dark&hide_border=true&text_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheIneq&show_icons=true&theme=dark&hide_border=true&text_color=ffffff&icon_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIneq&layout=compact&theme=dark&hide_border=true&text_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
 </div>
 
 <div align="center" style="background-color: #000000; padding: 20px 0; border-radius: 15px;">
-  <img src="https://streak-stats.demolab.com?user=IneqDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="720" style="border-radius: 12px; background: #000000;" />
+  <img src="https://streak-stats.demolab.com?user=TheIneq&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="720" style="border-radius: 12px; background: #000000;" />
 </div>
