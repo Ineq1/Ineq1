@@ -37,6 +37,7 @@ int main() {
 ---
 
 ### 🧰 Languages & Tools
+
 <p align="center" style="margin-top: 20px; margin-bottom: 40px;">
   <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -48,6 +49,7 @@ int main() {
 ---
 
 ### 📊 GitHub Stats & Activity
+
 <div align="center" style="background-color: #000000; padding: 25px 15px; border-radius: 15px; display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=TheIneq&show_icons=true&theme=dark&hide_border=true&text_color=ffffff&icon_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIneq&layout=compact&theme=dark&hide_border=true&text_color=ffffff" width="350" style="border-radius: 12px; background: #000000;" />
